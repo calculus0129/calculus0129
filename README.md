@@ -12,7 +12,7 @@ A project about **Java code coverage** in STAR-Lab that deals with software test
 
 #### 🌱 I’m currently learning...
 
-Java and reviewing neuroscience concepts, and working on C++ problem solving in <a href="https://boj.kr" target="_blank">Baekjoon Online Judge</a> in this summer vacation.
+Java and reviewing neuroscience concepts, and working on C++ problem solving in <a href="http://boj.kr" target="_blank">Baekjoon Online Judge</a> in this summer vacation.
 
 #### 😀 I like...
 
