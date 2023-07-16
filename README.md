@@ -8,17 +8,18 @@ I'm a sophomore(in 2023) in Ulsan National Institute of Science and Technology (
 
 #### 🔭 I’m currently working on ...
 
-a project about Java code coverage in STAR-Lab that deals with software testing and autonomous driving systems being run by my academic supervisor.
+A project about **Java code coverage** in STAR-Lab that deals with software testing and autonomous driving systems being run by my academic supervisor.
 
 #### 🌱 I’m currently learning...
 
-Java and reviewing neuroscience concepts, and working on C++ problem solving in <a href="boj.kr" target="_blank">Baekjoon Online Judge</a> in this summer vacation.
+Java and reviewing neuroscience concepts, and working on C++ problem solving in <a href="https://boj.kr" target="_blank">Baekjoon Online Judge</a> in this summer vacation.
 
 #### 😀 I like...
 
 - My favorite color: ee32af! & etc. https://www.color-hex.com/color/ee32af
-- Playing pianos & covering some newgrounds music with it.
-- Geometry Dash!
+- Playing pianos & covering some Newgrounds music with it.
+- Favorite Newgrounds Artists: Dimrain47, DJ-Nate, etc.
+- **Geometry Dash!**
 
 <!--I have a lot of interest in various fields, but mainly focus on below topics.-->
 
