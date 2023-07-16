@@ -31,7 +31,7 @@ Java and reviewing neuroscience concepts, and working on C++ problem solving in 
 [![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:ryanbhang129@unist.ac.kr)](mailto:ryanbhang129@unist.ac.kr)
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:@gmail.com)](mailto:@gmail.com)-->
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-771957?style=flat-square&logo=github&logoColor=white&link=github.com/calculus0129)](https://github.com/calculus0129)
-![Blog Badge](https://img.shields.io/badge/Blog-%23f9c1e7?logo=githubpages&link=https%3A%2F%2Fcalculus0129.github.io%2F)
+[![Blog Badge](https://img.shields.io/badge/Blog-%23fdeaf7?logo=github&link=calculus0129.github.io)](https://calculus0129.github.io)
 <!--[![Notion Badge](https://img.shields.io/badge/-Notion-F7A81B?style=flat-square&logo=notion&logoColor=white&link=https://snapdragon-pigment-92c.notion.site/239e5cc78a404cd49fa8e736e9dfa77b?pvs=4/)](https://snapdragon-pigment-92c.notion.site/239e5cc78a404cd49fa8e736e9dfa77b?pvs=4)-->
 
 #### Problem-Solving Stats
