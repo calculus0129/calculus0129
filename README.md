@@ -38,10 +38,18 @@ Java and reviewing neuroscience concepts, and working on C++ problem solving in 
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=calculus)](https://solved.ac/calculus)
 
+#### Language Stats
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calculus0129&layout=compact&theme=cobalt)
+
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
+
 #### GitHub Stats
 
-[![GitHub stats-Dark](https://github-readme-stats-blue-rho.vercel.app/api?username=calculus0129&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/calculus0129/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats-blue-rho.vercel.app/api?username=calculus0129&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/calculus0129/github-readme-stats#gh-light-mode-only)
+<!--[![GitHub stats-Dark](https://github-readme-stats-blue-rho.vercel.app/api?username=calculus0129&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/calculus0129/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-blue-rho.vercel.app/api?username=calculus0129&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/calculus0129/github-readme-stats#gh-light-mode-only)-->
+
+[![calculus0129's GitHub stats](https://github-readme-stats.vercel.app/api?username=calculus0129&theme=react&show_icons=true)](https://github.com/calculus0129)
 
 <!--#### Others
 ##### 🏆 Honors and Awards-->
