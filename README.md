@@ -4,11 +4,15 @@ Hi there👋 Jaehyun here!
 
 #### 👋 About
 
-I'm a sophomore(in 2023) in Ulsan National Institute of Science and Technology (UNIST), and majoring in *Computer Science and Engineering*, but I'm looking forward to take neuroscience course seriously. My recent research interests were RSA and Blockchains.
+I've been a junior(in 2024) in Ulsan National Institute of Science and Technology (UNIST), and I am majoring in *Computer Science and Engineering*.
+
+I did a research internship in STAR-Lab on a project about **Java code coverage**. STAR-Lab is a lab that deals with software testing and autonomous driving systems being run by my academic supervisor.
+
+My recent research interests were RSA and Blockchains.
 
 #### 🔭 I’m currently working on ...
 
-A project about **Java code coverage** in STAR-Lab that deals with software testing and autonomous driving systems being run by my academic supervisor.
+Re-learning React and rebuilding my works, react-project-1 to react-project-10 via TypeScript, ESLint, and Prettier.
 
 #### 🌱 I’m currently learning...
 
@@ -16,7 +20,7 @@ Java and reviewing neuroscience concepts, and working on C++ problem solving in 
 
 #### 😀 I like...
 
-- My favorite color: ee32af! & etc. https://www.color-hex.com/color/ee32af
+- My favorite color: 600040, ee32af! & etc. https://www.color-hex.com/color/600040, https://www.color-hex.com/color/ee32af
 - Playing pianos & covering some Newgrounds music with it.
 - Favorite Newgrounds Artists: Dimrain47, DJ-Nate, etc.
 - **Geometry Dash!**
