@@ -44,7 +44,9 @@ Java and reviewing neuroscience concepts, and working on C++ problem solving in 
 
 #### Language Stats
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calculus0129&layout=compact&theme=cobalt)
+  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calculus0129&layout=compact&theme=cobalt)-->
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=calculus0129&hide=javascript,scss,html,jupyter%20notebook&layout=compact&count_private=true)
 
   <!--<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>-->
 
@@ -53,7 +55,11 @@ Java and reviewing neuroscience concepts, and working on C++ problem solving in 
 <!--[![GitHub stats-Dark](https://github-readme-stats-blue-rho.vercel.app/api?username=calculus0129&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/calculus0129/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats-blue-rho.vercel.app/api?username=calculus0129&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/calculus0129/github-readme-stats#gh-light-mode-only)-->
 
-[![calculus0129's GitHub stats](https://github-readme-stats.vercel.app/api?username=calculus0129&theme=react&show_icons=true)](https://github.com/calculus0129)
+<!-- Generated from : https://github.com/pranesh-2005/github-readme-stats-fast -->
+
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=calculus0129&show_icons=true)](https://github.com/calculus0129)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=calculus0129)
 
 <!--#### Others
 ##### 🏆 Honors and Awards-->
